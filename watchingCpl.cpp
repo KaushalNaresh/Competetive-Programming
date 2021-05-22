@@ -8,7 +8,7 @@
     Space Complexity : O(N*K)
 */
 
-/*This code is committed to competetive-programming repository*/
+/*TempBranch2 on github*/
 
 #include<bits/stdc++.h>
 using namespace std;
